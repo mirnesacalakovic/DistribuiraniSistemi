@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentiBackup_BGJobs", "StudentiBackup_BGJobs\StudentiBackup_BGJobs.csproj", "{C5CCF4A8-61DB-488E-BB8E-B8F6B5E648DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5CCF4A8-61DB-488E-BB8E-B8F6B5E648DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5CCF4A8-61DB-488E-BB8E-B8F6B5E648DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5CCF4A8-61DB-488E-BB8E-B8F6B5E648DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5CCF4A8-61DB-488E-BB8E-B8F6B5E648DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8926264-EA27-4F4D-B428-CE78EE37756A}
+	EndGlobalSection
+EndGlobal
